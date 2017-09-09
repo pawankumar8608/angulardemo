@@ -1,0 +1,12 @@
+[
+  {"id" : 1, "userName" : "pawan01", "password" : "pawan123", "role" : "Reporter", "firstName" : "Pawan", "lastName" : "Kumar"},
+  {"id" : 2, "userName" : "ashish01", "password" : "ashish123", "role" : "Reporter", "firstName" : "Ashsish", "lastName" : "Gupta"},
+  {"id" : 3, "userName" : "admin", "password" : "admin", "role" : "admin", "firstName" : "admin", "lastName" : "admin"},
+  {"id" : 4, "userName" : "rakesh12", "password" : "admin", "role" : "Manager", "firstName" : "Rakesh", "lastName" : "Sharma"},
+  {"id" : 5, "userName" : "shyam03", "password" : "admin", "role" : "Tester", "firstName" : "Shyam", "lastName" : "Sinha"},
+  {"id" : 6, "userName" : "mohan.lal", "password" : "admin", "role" : "Developer", "firstName" : "Mohan", "lastName" : "Lal"},
+  {"id" : 7, "userName" : "ramesh.kumar", "password" : "admin", "role" : "Asociate", "firstName" : "Ramesh", "lastName" : "Kumar"},
+  {"id" : 8, "userName" : "pinku04", "password" : "admin", "role" : "Tester", "firstName" : "Pinku", "lastName" : "Singh"},
+  {"id" : 9, "userName" : "aaraj.singh", "password" : "admin", "role" : "Developer", "firstName" : "Aaraj", "lastName" : "Sinha"},
+  {"id" : 10, "userName" : "anant04", "password" : "admin", "role" : "Manager", "firstName" : "Anant", "lastName" : "Kumar"}
+]

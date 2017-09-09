@@ -1,0 +1,20 @@
+{
+  "name": "angularjsproject",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-route": "1.5.8",
+    "angular-environment": "^1.0.4",
+    "angular-resource": "^1.5.8"
+  }
+}
